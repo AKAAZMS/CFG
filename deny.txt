@@ -1,5 +1,5 @@
 !video
-0.0.0.0 ||kinogo.inc^
-0.0.0.0 ||rosserial.net^
-0.0.0.0 ||filmix.my^
-0.0.0.0 ||smotrim.ru^
+||kinogo.inc^
+||rosserial.net^
+||filmix.my^
+||smotrim.ru^
