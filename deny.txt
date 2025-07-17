@@ -3,3 +3,4 @@
 ||rosserial.net^
 ||filmix.my^
 ||smotrim.ru^
+||kinogo.media^
