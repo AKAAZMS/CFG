@@ -6,3 +6,4 @@
 ||kinogo.media^
 ||kinogo.online^
 ||rezka.ag^
+||gidonline.fun^
