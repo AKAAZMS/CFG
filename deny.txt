@@ -21,4 +21,4 @@
 ||ncc.avast.com^
 ||ncc.avast.com.edgesuite.net^
 ||shepherd.ff.avast.com^
-||www.ccleaner.com^
+||ccleaner.com^
