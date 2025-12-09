@@ -10,6 +10,7 @@
 ||kinogo1.biz^
 ||kinogo.li^
 ||teleportal.ua^
+!cleaner
 ||analytics.avcdn.net^
 ||alpha-crap.ff.avast.com^
 ||analytics.ff.avast.com^
